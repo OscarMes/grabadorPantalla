@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>boton-rec.png</file>
+    <file>boton-rec_black.png</file>
+    <file>configuraciones.png</file>
+  </qresource>
+</RCC>
